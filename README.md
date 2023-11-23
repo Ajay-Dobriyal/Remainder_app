@@ -1,2 +1,2 @@
 # Remainder_app
-it an android app
+it is an android app
